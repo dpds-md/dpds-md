@@ -28,6 +28,3 @@ Former Physician transitioning to Healthcare Data Science/ML to draw new insight
 </div>  
 
 <br/> 
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
