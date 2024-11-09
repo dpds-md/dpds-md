@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-Former Physician transitioning to Healthcare Data Science/ML to draw new insights that ultimately changes how we practice modern medicine.  
+Former Physician transitioning to Healthcare Data Science/ML.  
   
 
 <br/>  
