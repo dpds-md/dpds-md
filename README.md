@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-Former Physician transitioning to Healthcare Data Science/ML.  
+Passionate about leveraging AI and statistical modeling to uncover actionable insights, optimize decision-making, and drive innovation across sections. 
   
 
 <br/>  
