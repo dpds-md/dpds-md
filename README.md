@@ -4,11 +4,11 @@
 
 ###
 
-<h3 align="left">Hey there! 👋 I'm Devansh!</h3>
+<h1 align="left">Hey there! 👋 I'm Devansh!</h3>
 
 ###
 
-<h5 align="left">Glad to see you here!</h5>
+<h3 align="left">Data Scientist</h5>
 
 ###
 
