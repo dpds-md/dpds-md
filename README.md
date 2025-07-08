@@ -4,23 +4,15 @@
 
 ###
 
-<h1 align="left">Hey there! 👋 I'm Devansh!</h3>
+<h1 align="left">Hey there! 👋</h1>
 
 ###
 
-<h3 align="left">Data Scientist</h5>
+<h3 align="left">Data Scientist</h3>
 
 ###
 
-<p align="left">I'm Devansh. <br><br>Passionate about leveraging AI and statistical modeling to uncover actionable insights, optimize decision-making, and drive innovation across sections.</p>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/dp817/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+<p align="left">I'm Devansh!<br><br>Passionate about leveraging AI and statistical modeling to uncover actionable insights, optimize decision-making, and drive innovation across sectors.</p>
 
 ###
 
@@ -28,7 +20,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
@@ -57,5 +49,13 @@
 ###
 
 <img src="https://raw.githubusercontent.com/dpds-md/dpds-md/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/dp817/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
