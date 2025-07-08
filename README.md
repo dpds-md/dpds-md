@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Devansh. Glad to see you here! <br><br>Passionate about leveraging AI and statistical modeling to uncover actionable insights, optimize decision-making, and drive innovation across sections.</p>
+<p align="left">I'm Devansh. <br><br>Passionate about leveraging AI and statistical modeling to uncover actionable insights, optimize decision-making, and drive innovation across sections.</p>
 
 ###
 
